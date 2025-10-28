@@ -1,0 +1,29 @@
+﻿# node_modules.
+/node_modules
+
+# dist folder.
+/dist
+demo/dist
+
+# tmp testing files.
+testing.html
+example.html
+
+# macOS-specific files
+.DS_Store
+
+# jetbrains setting folder
+.idea/
+
+# Visual Studio Code from https://github.com/github/gitignore/blob/master/Global/VisualStudioCode.gitignore
+# Adjust to your needs.
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code.
+.history/
